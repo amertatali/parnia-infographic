@@ -39,7 +39,7 @@
         <!-- Header section of the infographic -->
         <header class="text-center mb-16">
             <h1 class="text-4xl md:text-6xl font-black brand-text-primary mb-2">مجموعه پرنیا</h1>
-            <p class="text-xl md:text-2xl brand-text-secondary font-light">پیوند هنر، تاریخ و فناوری</p>
+            <p class="text-xl md:text-2xl brand-text-secondary font-light">پیشرو و نوآور در صنعت طلا و خالق آثار فاخر ،کلکسیونی</p>
         </header>
 
         <!-- Main content grid -->
@@ -48,14 +48,14 @@
             <!-- Section: Years of Experience and Innovation -->
             <div class="md:col-span-2 bg-white rounded-xl shadow-lg p-8 flex flex-col md:flex-row items-center justify-around text-center">
                 <div class="mb-6 md:mb-0">
-                    <p class="text-8xl font-black brand-accent-orange">40</p>
+                    <p class="text-xl font-bold brand-text-primary">بیش از</p>
+                    <p class="text-8xl font-black brand-accent-orange">۴۰</p>
                     <p class="text-2xl font-bold brand-text-primary">سال تجربه</p>
                     <p class="text-lg text-gray-600">در سنت اصیل ظریف‌سازی طلا</p>
                 </div>
                 <div class="border-t-2 md:border-t-0 md:border-r-2 border-gray-200 w-full md:w-auto md:h-32 mx-8"></div>
                 <div>
-                    <p class="text-3xl font-bold brand-text-primary">نوآوری در خلق آثار فاخر</p>
-                    <p class="text-lg mt-2 text-gray-600">تولید تمبر و مدالیون‌های یادبود از طلا و نقره</p>
+                    <p class="text-3xl font-bold brand-text-primary">تولید تمبر،مدالیون،تابلو،شمش،از جنس طلا و نقره</p>
                 </div>
             </div>
 
@@ -73,11 +73,15 @@
                     </div>
                     <div class="flex items-center p-3 bg-teal-50 rounded-lg">
                         <span class="text-2xl ml-4 brand-accent-green">📜</span>
-                        <span>پروانه کسب از <span class="font-bold">سازمان میراث فرهنگی</span></span>
+                        <span>پروانه میراث فرهنگی و صنایع دستی</span>
                     </div>
                     <div class="flex items-center p-3 bg-teal-50 rounded-lg">
                         <span class="text-2xl ml-4 brand-accent-green">👍</span>
-                        <span>تأییدیه <span class="font-bold">استاندارد عیار T99</span> در تولید محصولات</span>
+                        <span>دارای استاندارد تولید طلای ۲۴ عیار با شماره <span class="font-bold">T99</span></span>
+                    </div>
+                     <div class="flex items-center p-3 bg-teal-50 rounded-lg">
+                        <span class="text-2xl ml-4 brand-accent-green">🏅</span>
+                        <span>عضویت کمیته بین‌المللی موزها <span class="font-bold">icom</span></span>
                     </div>
                 </div>
             </div>
@@ -94,7 +98,10 @@
                         کاتالوگ شمش پرنیا
                     </a>
                     <a href="https://gssmuseum.com/about/" target="_blank" class="block w-full text-center bg-gray-200 text-gray-800 font-bold py-3 px-6 rounded-lg hover:bg-gray-300 transition-colors">
-                        وب‌سایت موزه
+                        وب‌سایت موزه تمبرهای طلا و نقره ایران
+                    </a>
+                    <a href="https://gssmuseum.com/about/" target="_blank" class="block w-full text-center bg-gray-200 text-gray-800 font-bold py-3 px-6 rounded-lg hover:bg-gray-300 transition-colors">
+                        وب‌سایت خانه سکه ایران
                     </a>
                     <a href="https://www.niyaco.com" target="_blank" class="block w-full text-center bg-gray-200 text-gray-800 font-bold py-3 px-6 rounded-lg hover:bg-gray-300 transition-colors">
                         وب‌سایت صنایع دستی پرنیا
@@ -109,7 +116,7 @@
                     <!-- Main Node -->
                     <div class="bg-white p-6 rounded-xl text-center shadow-md border-b-4 border-teal-600 hover:scale-105 transition-transform duration-300">
                         <i class="fas fa-gem text-5xl brand-accent-green mb-4"></i>
-                        <h3 class="text-xl font-bold brand-text-primary mb-2">صنایع دستی پرنیا (هسته مرکزی)</h3>
+                        <h3 class="text-xl font-bold brand-text-primary mb-2">صنایع دستی پرنیا</h3>
                         <p class="text-gray-600 text-sm">پیوند هنر و صنعت در تولید آثار نفیس طلا و نقره</p>
                     </div>
 
@@ -123,13 +130,13 @@
                     <div class="bg-white p-6 rounded-xl text-center shadow-md border-b-4 border-orange-400 hover:scale-105 transition-transform duration-300">
                         <i class="fas fa-book-open text-5xl brand-accent-orange mb-4"></i>
                         <h3 class="text-xl font-bold brand-text-primary mb-2">انتشارات پرنیا</h3>
-                        <p class="text-gray-600 text-sm">ترویج فرهنگ مجموعه‌داری و نشر آثار تخصصی</p>
+                        <p class="text-gray-600 text-sm">ترویج فرهنگ و تاریخ و مشاهیر ایران جهان در قالب نشر کتب فاخر</p>
                     </div>
 
                     <div class="bg-white p-6 rounded-xl text-center shadow-md border-b-4 border-orange-400 hover:scale-105 transition-transform duration-300">
                         <i class="fas fa-coins text-5xl brand-accent-orange mb-4"></i>
                         <h3 class="text-xl font-bold brand-text-primary mb-2">خانه سکه ایران</h3>
-                        <p class="text-gray-600 text-sm">مرجع تخصصی خرید و فروش سکه‌های تاریخی و نایاب</p>
+                        <p class="text-gray-600 text-sm">مرجع خرید شمش‌ها و آثار هنری تولید شده از جنس طلا و نقره</p>
                     </div>
 
                     <div class="bg-white p-6 rounded-xl text-center shadow-md border-b-4 border-orange-400 hover:scale-105 transition-transform duration-300">
@@ -140,7 +147,7 @@
                     
                     <div class="bg-white p-6 rounded-xl text-center shadow-md border-b-4 border-orange-400 hover:scale-105 transition-transform duration-300">
                         <i class="fas fa-university text-5xl brand-accent-orange mb-4"></i>
-                        <h3 class="text-xl font-bold brand-text-primary mb-2">موزه تمبرهای طلا و نقره</h3>
+                        <h3 class="text-xl font-bold brand-text-primary mb-2">موزه تمبرهای طلا و نقره ایران</h3>
                         <p class="text-gray-600 text-sm">نمایشگاه دائمی آثار ارزشمند و کلکسیونی</p>
                     </div>
                 </div>
